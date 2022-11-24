@@ -15,4 +15,4 @@ retention rate,
 Дополнил её нулевой и альтернативной гипотезами. 
 Провел статистический тест.
 
-Ссылка на ["Анализ поведения пользователей":](https://public.tableau.com/views/Unnecessarythings_16646271376670/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) 
+Ссылка на public.tableau: ["Анализ поведения пользователей"](https://public.tableau.com/views/Unnecessarythings_16646271376670/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) 
